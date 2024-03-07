@@ -1,7 +1,4 @@
 ltte
 
-<<<<<<< HEAD
+
 ltte was ambushed by sf(change on local)
-=======
-ltte was ambushed by sf (changed from remote)
->>>>>>> 74c77f01beae21bf2d8821aa4fe8e4aaf677a049
